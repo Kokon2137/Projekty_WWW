@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    width: 90%;
+    margin: auto;
+background-color: darkcyan;
+}
+
+
+header  {
+    background-color: gray;
+    color: lightgreen;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+nav {
+    width: 30%;
+    background-color: gray;
+color: lightgreen;
+    float: left;
+    padding: 20px;
+}
+article {
+    width: 70%;
+    float: left ;
+    background-color: white;
+    padding: 20px;
+    border: 1px lightgreen solid;
+    text-align: justify;
+}
+footer {
+    background-color: gray;
+    color: lightgreen;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    clear: both ;
+}
